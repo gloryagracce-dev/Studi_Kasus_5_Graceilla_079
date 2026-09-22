@@ -16,11 +16,11 @@ PENJELASAN KODE PROGRAM :
 
 def hitung_biaya(jenis_kamar, lama_menginap):
   
- a. def  = perintah untuk bikin fungsi
+a. def  = perintah untuk bikin fungsi
 ​
- b. hitung_biaya  = nama fungsinya
+b. hitung_biaya  = nama fungsinya
 ​
- c. (jenis_kamar, lama_menginap)  = parameter, tempat menampung nilai yang akan dipakai di dalam fungsi
+c. (jenis_kamar, lama_menginap)  = parameter, tempat menampung nilai yang akan dipakai di dalam fungsi
  
  if jenis_kamar == "Standard":
  
