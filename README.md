@@ -17,9 +17,9 @@ PENJELASAN KODE PROGRAM :
 def hitung_biaya(jenis_kamar, lama_menginap):
   
  a.def  = perintah untuk bikin fungsi
-​
+ 
  b.hitung_biaya = nama fungsinya
-​
+ 
  c.(jenis_kamar, lama_menginap) = parameter, tempat menampung nilai yang akan dipakai di dalam fungsi
  
  if jenis_kamar == "Standard":
@@ -35,11 +35,11 @@ def hitung_biaya(jenis_kamar, lama_menginap):
     return"Jenis kamar tidak tersedia"
  
  d.if  = cek kondisi pertama, kalau kamarnya Standard, harganya 200.000
-​
+ 
  e.elif  = kalau bukan yang di atas, cek yang kedua, kalau Deluxe harganya 350.000
-​
+ 
  f.else  = kalau bukan dua-duanya, kasih pesan kamar tidak ada
-​
+ 
  g.return  = mengembalikan hasil keluaran dari fungsi
  
  total = tarif * lama_menginap
@@ -47,7 +47,7 @@ def hitung_biaya(jenis_kamar, lama_menginap):
  return total
  
  h.* perkalian, harga dikali jumlah malam
-​
+ 
  i.return total  = hasil akhirnya dikembalikan ke pemanggil fungsi
  
  2. Mengisi Data
