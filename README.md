@@ -95,7 +95,7 @@ Di sini kita isi sendiri datanya: pilih kamar Deluxe, tanggal masuk dan keluar
  print("Total Biaya       : Rp",bayar)
  
  a.print()  = menampilkan tulisan/angka ke layar
-​
+ 
  b.tanda  ,  = menyambungkan tulisan tetap dengan isi variabel
-​
+ 
  c.Garis  ====== untuk dipakai biar tampilan rapi seperti struk
