@@ -50,7 +50,7 @@ def hitung_biaya(jenis_kamar, lama_menginap):
 ​
  i.return total  = hasil akhirnya dikembalikan ke pemanggil fungsi
  
-2. Mengisi Data
+ 2. Mengisi Data
  
  jenis = "Deluxe"
  
